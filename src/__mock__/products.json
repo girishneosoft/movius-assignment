@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "productName": "Rolex",
+        "thumbnail" : "/img/product-watch.jpg",
+        "price": 29099,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+        "id": 2,
+        "productName": "Patek Philippe",
+        "thumbnail" : "/img/product-watch.jpg",
+        "price": 25099,
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "id": 3,
+        "productName": "Audemars Piguet",
+        "thumbnail" : "/img/product-watch.jpg",
+        "price": 28099,
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC."
+    }
+]

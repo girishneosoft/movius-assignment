@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "message": "Hello, How can I help you?"
+    },
+    {
+      "id": 2,
+      "message": "I need some watch modification",
+      "user": true
+    },
+    {
+      "id": 3,
+      "message": "Which type watch modification?"
+    },
+    {
+      "id": 4,
+      "message": "Gold Look",
+      "user": true
+    },
+    {
+      "id": 5,
+      "message": "Anything else?"
+    }
+  ]
